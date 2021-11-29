@@ -50,7 +50,7 @@ const Card = () => {
     return (
 <div className={css(styles.main)}>
     <div className={css(styles.parent)}>
-<img className={css(styles.image)} alt="album's Name" src="https://upload.wikimedia.org/wikipedia/commons/b/be/Acdc_backinblack_cover.jpg"></img>
+<img className={css(styles.image)} alt="album's Jacket" src="https://hardforce.com/img/uploads/Posts/2017/08/HardForce-blog-413.jpg"></img>
 <div className={css(styles.titleSection)}>
 <h1 className={css(styles.artist)}> Metallica </h1>
 <div className={css(styles.title)}> Black album (1991)</div>
